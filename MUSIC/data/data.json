@@ -1,0 +1,49 @@
+{
+	"mapList":{
+		"albumList":[{
+			"albumImgSrc":"../resource/music/album/yongqi/100751465709891.jpg",
+			"playerBg":"../resource/music/album/yongqi/playerBg.jpg",
+			"albumBg":"../resource/music/album/yongqi/albumBG.jpg",
+			"albumTitle":"勇气",
+			"albumSinger":"梁静茹",
+			"albumMusicList":[{
+				"musicName":"勇气",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 01. 勇气.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 01. 勇气.lrc"
+			},{
+				"musicName":"如果有一天",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 02. 如果有一天.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 02. 如果有一天.lrc"
+			},{
+				"musicName":"半个月亮",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 03. 半个月亮.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 03. 半个月亮.lrc"
+			}]
+		},{
+			"albumImgSrc":"../resource/music/album/yongqi/100751465709891.jpg",
+			"playerBg":"../resource/music/album/yongqi/playerBg.jpg",
+			"albumBg":"../resource/music/album/yongqi/albumBG.jpg",
+			"albumTitle":"勇气1111",
+			"albumSinger":"梁静茹",
+			"albumMusicList":[{
+				"musicName":"勇asdasd气",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 01. 勇气.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 01. 勇气.lrc"
+			},{
+				"musicName":"如果asdasd有一天",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 02. 如果有一天.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 02. 如果有一天.lrc"
+			},{
+				"musicName":"半个adasd月亮",
+				"musicSinger":"梁静茹",
+				"musicUrl":"../resource/music/album/yongqi/梁静茹 - 03. 半个月亮.mp3",
+				"lyric":"../resource/music/album/yongqi/梁静茹 - 03. 半个月亮.lrc"
+			}]
+		}]
+	}
+}
